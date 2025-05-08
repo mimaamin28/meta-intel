@@ -12,7 +12,7 @@ inherit cmake
 
 SRC_URI = "git://github.com/intel/metee.git;branch=master;protocol=https \
 "
-SRCREV = "db45e37e146fd9c06907a15ade55eba06ad1f951"
+SRCREV = "e4d2737bfdd8cdf6574bf0f00f318d427a0f83fe"
 
 S = "${WORKDIR}/git"
 
